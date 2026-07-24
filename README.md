@@ -1,6 +1,6 @@
 # 🤖 Intelligent Urban Delivery Robot
 
-A visual AI pathfinding simulator built with Python and Tkinter. A robot navigates a procedurally generated city grid to complete deliveries using five classic search algorithms — with real-time animation, cost tracking, and performance metrics.
+A visual AI pathfinding simulator built with Python and Tkinter. A robot navigates a procedurally generated city grid to complete deliveries using five classic search algorithms, with real-time animation, cost tracking, and performance metrics.
 
 ---
 
@@ -63,7 +63,7 @@ git clone https://github.com/your-username/urban-delivery-robot.git
 cd urban-delivery-robot
 ```
 
-No external dependencies — only the Python standard library is used.
+No external dependencies, only the Python standard library is used.
 
 ### Run the GUI
 
@@ -171,4 +171,4 @@ This project is released under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Built as an AI/algorithms learning project demonstrating classical search in a simulated urban environment.
+**Abeer Ashraf**
