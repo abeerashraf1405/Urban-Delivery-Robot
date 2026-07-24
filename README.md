@@ -76,7 +76,7 @@ python Module1.py
 Compare all 5 algorithms side-by-side without opening the GUI:
 
 ```bash
-python Module1.py --console
+python UDR.py --console
 ```
 
 Sample output:
